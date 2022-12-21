@@ -9,11 +9,9 @@ N = input()
 count = 0
 N = list(N)
 
-if "," in N:                                     # function 'N = N.replace(',', '0')
-    for i in range(len(N)):
-        if N[i] == ",":
-            N[i] = "0"
-
-for i in N:
-    count = count + int(i)
+for i in range(len(N)):                # function 'N = N.replace(',', '0')
+    if N[i] == ",":
+        N[i] == "0"
+    else:
+        count = count + int(N[i])
 print(count)
