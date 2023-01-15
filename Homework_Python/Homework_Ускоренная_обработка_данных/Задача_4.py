@@ -1,6 +1,5 @@
 # 4. Реализуйте RLE алгоритм: реализуйте модуль сжатия и восстановления данных.  AAABBBBBCCC -> 3A5B3C
 
-
 def encode(c):
     count = 1
     res = ''
@@ -19,9 +18,13 @@ def decode(ex):
         res += int(ex[i]) * ex[i+1]
     return res
 
-c  = 'AAABBBCCCCDDDDD'
+with open('4_ex.txt', 'r', encoding='utf-8') as file:
+    c = file.read()
+
 firstFun = encode(c)
 print(firstFun)
-print(decode(firstFun))
+secondFun = decode(firstFun)
+print(secondFun)
 
-
+with open('4_ex_answer.txt', 'w', encoding='utf-8') as file:
+    file.write(firstFun)
