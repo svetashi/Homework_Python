@@ -1,0 +1,88 @@
+2023-02-02 21:54:47.976420 - health - choosing option
+2023-02-02 21:54:49.033018 - health_in - writing text
+2023-02-02 21:54:51.745862 - health_in_read - message: jgkufku
+2023-02-02 21:54:55.413091 - health - choosing option
+2023-02-02 21:54:56.469854 - health_out - outputting: jgkufku
+2023-02-02 22:34:48.365451 - 264762982 - health - choosing option
+2023-02-02 22:34:50.000763 - 264762982 - health_in - writing text
+2023-02-02 22:35:45.941231 - 264762982 - health - choosing option
+2023-02-02 22:35:46.917833 - 264762982 - health_in - writing text
+2023-02-02 22:36:58.346378 - 264762982 - health - choosing option
+2023-02-02 22:36:59.264699 - 264762982 - health_in - writing text
+2023-02-02 22:37:00.703349 - 264762982 - health_in_read - message: egsgse
+2023-02-02 22:37:04.427678 - 264762982 - health - choosing option
+2023-02-02 22:37:05.483822 - 264762982 - health_out - outputting: egsgse
+2023-02-03 22:09:49.002415 - 264762982 - pet - choosing option
+2023-02-03 22:09:50.351957 - 264762982 - pet_in - writing text
+2023-02-03 22:10:10.247473 - 264762982 - pet_in_read - message: 03.02 year check-up
+2023-02-03 22:10:16.054593 - 264762982 - pet - choosing option
+2023-02-03 22:10:17.255303 - 264762982 - pet_out - outputting: 03.02 year check-up
+2023-02-03 22:29:48.827866 - 264762982 - health - choosing option
+2023-02-03 22:29:53.067242 - 264762982 - health_in - writing text
+2023-02-03 22:30:58.780770 - 264762982 - health - choosing option
+2023-02-03 22:30:59.846393 - 264762982 - health_in - writing text
+2023-02-03 22:31:26.036503 - 264762982 - health - choosing option
+2023-02-03 22:31:27.073335 - 264762982 - health_in - writing text
+2023-02-03 22:31:50.215440 - 264762982 - health - choosing option
+2023-02-03 22:31:51.753050 - 264762982 - health_in - writing text
+2023-02-03 22:31:57.446791 - 264762982 - health_in_read - message: 1.1.1 bla
+2023-02-03 22:32:12.436357 - 264762982 - health - choosing option
+2023-02-03 22:32:13.404962 - 264762982 - health_in - writing text
+2023-02-03 22:32:17.624555 - 264762982 - health_in_read - message: 2.2.2 bla
+2023-02-03 22:32:28.983884 - 264762982 - health - choosing option
+2023-02-03 22:33:29.054449 - 264762982 - health - choosing option
+2023-02-03 22:33:30.711374 - 264762982 - health_out - outputting: 1.1.1 bla
+2.2.2 bla
+2023-02-04 18:28:42.188598 - 264762982 - pet - choosing option
+2023-02-04 18:28:43.487137 - 264762982 - pet_in - writing text
+2023-02-04 18:29:08.608731 - 264762982 - pet_in_read - message: 03.02 - плановая прививка в Ереване (Нобивак)
+2023-02-04 18:29:14.390481 - 264762982 - pet - choosing option
+2023-02-04 18:29:15.406332 - 264762982 - pet_out - outputting: 03.02 - плановая прививка в Ереване (Нобивак)
+2023-02-04 18:31:48.324042 - 264762982 - birthsdays - choosing option
+2023-02-04 18:31:51.100602 - 264762982 - birthsdays_in - writing text
+2023-02-04 18:34:13.110936 - 264762982 - birthsdays - choosing option
+2023-02-04 18:34:15.491372 - 264762982 - birthsdays_in - writing text
+2023-02-04 18:37:05.929877 - 264762982 - birthsdays - choosing option
+2023-02-04 18:37:07.400985 - 264762982 - birthsdays_in - writing text
+2023-02-04 18:37:33.636829 - 264762982 - notes - choosing option
+2023-02-04 18:37:35.388485 - 264762982 - notes_in - writing text
+2023-02-04 18:37:36.525428 - 264762982 - notes_in_read - message: akjshkjahs
+2023-02-04 18:37:42.497120 - 264762982 - notes - choosing option
+2023-02-04 18:37:43.945182 - 264762982 - notes_out - outputting: akjshkjahs
+2023-02-04 18:40:34.216550 - 264762982 - birthsdays - choosing option
+2023-02-04 18:40:36.002712 - 264762982 - birthsdays_in - writing text
+2023-02-04 18:42:56.478120 - 264762982 - birthsdays - choosing option
+2023-02-04 18:42:58.435863 - 264762982 - birthsdays_in - writing text
+2023-02-04 18:45:43.308297 - 264762982 - birthsdays - choosing option
+2023-02-04 18:45:53.385849 - 264762982 - birthsdays_in - writing text
+2023-02-04 18:46:37.117323 - 264762982 - birthsdays - choosing option
+2023-02-04 18:46:38.461516 - 264762982 - birthsdays_in - writing text
+2023-02-04 18:46:46.502191 - 264762982 - birthsdays_in_read - message: 29.04 me
+2023-02-04 18:46:53.107260 - 264762982 - birthsdays - choosing option
+2023-02-04 18:46:54.918209 - 264762982 - birthsdays_out - outputting: 29.04 me
+2023-02-04 18:47:21.975166 - 264762982 - pet - choosing option
+2023-02-04 18:47:23.742520 - 264762982 - pet_in - writing text
+2023-02-04 18:47:27.663451 - 264762982 - pet_in_read - message: 375687 kjghjfgkdjfg
+2023-02-04 18:47:32.333275 - 264762982 - pet - choosing option
+2023-02-04 18:47:34.009535 - 264762982 - pet_out - outputting: 03.02 - плановая прививка в Ереване (Нобивак)
+375687 kjghjfgkdjfg
+2023-02-04 18:49:48.942516 - 264762982 - health - choosing option
+2023-02-04 18:49:51.215122 - 264762982 - health_in - writing text
+2023-02-04 18:50:16.803083 - 264762982 - health_in_read - message: 04.02 - врач в 12:30 в Люксио
+2023-02-04 18:50:23.832206 - 264762982 - birthsdays - choosing option
+2023-02-04 18:51:07.534210 - 264762982 - birthsdays_in - writing text
+2023-02-04 18:51:09.472325 - 264762982 - birthsdays_in_read - message: 29.04.1994 - Me
+2023-02-04 18:51:15.077787 - 264762982 - pet - choosing option
+2023-02-04 18:51:16.311215 - 264762982 - pet_in - writing text
+2023-02-04 18:51:41.738716 - 264762982 - pet_in_read - message: 03.02 - Tommy (прививка) Nobivak
+2023-02-04 18:51:50.642945 - 264762982 - notes - choosing option
+2023-02-04 18:51:52.542615 - 264762982 - notes_in - writing text
+2023-02-04 18:52:06.302922 - 264762982 - notes_in_read - message: Продать вазу
+2023-02-04 18:52:13.861024 - 264762982 - health - choosing option
+2023-02-04 18:52:15.131591 - 264762982 - health_out - outputting: 04.02 - врач в 12:30 в Люксио
+2023-02-04 18:52:22.276087 - 264762982 - birthsdays - choosing option
+2023-02-04 18:52:23.379305 - 264762982 - birthsdays_out - outputting: 29.04.1994 - Me
+2023-02-04 18:52:27.053748 - 264762982 - pet - choosing option
+2023-02-04 18:52:28.095034 - 264762982 - pet_out - outputting: 03.02 - Tommy (прививка) Nobivak
+2023-02-04 18:52:32.517186 - 264762982 - notes - choosing option
+2023-02-04 18:52:33.871316 - 264762982 - notes_out - outputting: Продать вазу
